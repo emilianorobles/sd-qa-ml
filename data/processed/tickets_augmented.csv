@@ -1,0 +1,2456 @@
+Incident #,Assigned Group,Product Name,Reported Source,text,score,customer details,correct summary,Correct Template,Template completed,Complete and understandable troubleshooting notes,Error message and or screenshot,second ticket created,Asset details,Appropriate KBA article related,Was FCR obtained,Status update process,Saved in progress first,Sent to correct queue,Correct resolution
+INC000005482475,Desktop Support,Windows,Phone,"Windows - Low disk space Cornelio A Artienda Windows - Low disk space
+KBA00080134
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: user reported low space disk
+
+When did the issue start? april 15 
+
+Did the client receive the 'Low Disk Space' pop-up from Aternity? no
+- If so, use the Aternity - Low disk space pop-up template
+
+How much available space did the client have, and how much were you able to recover? nothing available
+
+What troubleshooting did you perform? i tried to remote in but he could not even connect to the vpn due to this same problem. He was able to share his screen with me although i could not take control so i reached out to btac for assistance.  User was not in atternity so i could not tb so per btac instructions routing to 2nd level for further assistance
+
+User ARTIENCA would prefet to be contacted by phone or teams or email 7 to 3:30 pm (user mentioned he will be working on the field this week so probably best by phone 6263020328 and on friday he will be working at the office)",79,0,0,1,1,1,1,0,1,1,0,0,1,1,1
+INC000005484406,SharePoint,Office 365,Phone,"[Power Apps Issue] Microsoft Office - unable to access to performance power app
+KBA00013503
+
+Escalation: Desktop Support
+
+Describe issue:
+unable to access to performance power app
+user gets message you don´t have a current power apps plan, ask your admin for one, or start a free trial
+last time it worked was last week
+
+Office version: 16.0.16731.20550
+
+Operating System: 10 
+
+Application (see available apps in KBA): power app performance Microsoft Office 
+
+When did the issue start? today
+
+What troubleshooting did you perform?
+remoted into user's computer 
+cleared cache and browser restarted browser
+issue persists 
+license E5  is active
+routing ticket
+best method of contact teams or phone 6265326309
+available hours 7:00 am to 5:00 pm pst
+
+
+Attach screenshot",43,1,1,1,1,1,1,0,0,1,0,0,1,1,0
+INC000005499990,MDM (Mobile Device Management) Tier 2,iPhone,Phone,"Mobile Devices iPhone/iPad - Passcode reset Manuel A Duque Mobile Devices iPhone/iPad - Passcode reset
+KBA00091943
+
+Escalation: Contact BTAC - Business Technology Assistance Center for assistance.
+
+Phone number of the device experiencing the issue:  9097013506
+
+Authenticated the client (Yes/No)? yes
+
+Is the client a field user with an iPad? no
+if so, Contact BTAC for further assistance.
+
+Is Intune Company Portal installed on the device (Y/N)?  yes
+
+Walk the user through the reset passcode link https://portal.manage.microsoft.com
+
+Was the user able to reset their passcode (Yes/No)? no
+if No, authenticate the user and contact BTAC. 
+
+user forgot the  passcode and now the   iPhone    9097013506   is locked, tried to guide into portal manage but says no device assigned, contacted btac and  unable to find the phone, please assist 
+
+
+6:30 to 2:30 pm pst / phone   6264842812
+
+***Please review the KBA steps for iPhone passcode reset/phone disabled***",47,1,0,1,1,1,0,0,1,1,0,0,1,1,1
+INC000005489450,Identity and Access Management- Operations Support,PowerPlant ERP - SCE,Phone,"PowerPlan/PowerUE - Password Reset/Account unlock KBA00073237
+
+Escalation group: BTAC - Business Technology Assistance Center
+
+UserID: D269538
+
+Authenticated the user (Yes/No)?  yes
+- Only authenticate the client if BTAC advises the account is disabled in IGAM.
+
+uaser was not able to access after password reset
+contact 8 am to 5 pm  9099914472
+
+Resolution steps:
+
+1. Please contact BTAC on Teams to verify if the account is disabled in IGAM.
+
+2. If it's not deactivated, assist the user with an Okta password reset to unlock/synchronize the password with PowerPlan.
+
+3. If the user is unable to sign in after the password reset, document your findings and route the incident to L2.",97,1,1,1,1,1,1,0,1,1,0,0,1,1,1
+INC000005490371,Field Tools,OE Catalyst Fulcrum,Phone,"Fulcrum Is not dowloading Alejandro Rodriguez Fulcrum - How to sign in
+-------------------- Important Note: -----------------------------------------------------------------------------------------
+
+- Fulcrum uses Okta SSO. Use the steps from the KBA to guide users on how to sign in.
+
+-------------------- Action Required: ----------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00082907
+- After-hours procedure for issues requiring immediate attention:
+	•	Applicable Hours:
+	•	Monday-Friday: Outside of normal business hours 7 am to 4 pm PST
+	•	Saturday-Sunday: All day
+	•	US Holidays: All day
+If the user states that the issue is urgent and cannot wait until normal business hours for resolution, follow these steps:
+	1.	Check the Field Tool Support calendar in Outlook for the phone number of today's on-call person from FSS.
+	2.	Call the phone number and leave a message with a brief description of the problem and the Incident Number (INC#).
+ 
+-------------------- Questionnaire Section: -------------------------------------------------------------------------------
+
+Describe issue: User Rafael Chavez is calling on behalf Mr. Rodriguez, they are having issues with thew fulcrum application
+
+Did the client have access before? yes
+- If not, submit an access request in IGAM. 
+Role name: Fulcrum_Standard_User
+
+Request number (If applicable):  see screen attached
+
+How did you assist the client? After script
+I asked him if was the firsttime to access, he said no, that was working fine
+Asked him if it didnt have any pending update
+He shared me via teams chat a screen shot where it says there is no apps available for the account, but user has the access on AD
+
+If escalating include the information below:
+ 
+Capture and attach a screenshot of the error message to this ticket.
+ 
+Device ID/Best time to contact/Best contact method: D405960 / telephone- teams chat/ from 6:30 am to 5 pm PST
+ 
+
+-------------------- Routing Instructions for Fulcrum Issues: ---------------------------------------------------------
+
+Escalation group: Field Tools",33,1,1,0,1,0,1,0,1,1,0,0,1,1,0
+INC000005482015,Sharp Business Systems,DesignJet T2530 PostScript,Phone,"Printer - plotter not working KBA00029982
+
+Escalation group: Sharp Business Systems
+
+Equipment ID: D265732
+
+Device ID: D265732
+
+External phone#: 6263029228
+
+Location: Montebello s/c
+
+Issue/Error: not working
+
+Hours of availability:   7-4 PST 
+
+Preferred method of contact: by teams",95,1,1,0,1,0,1,0,0,1,0,0,1,1,1
+INC000005498296,Desktop Support,Palo Alto Global Protect,Phone,"GlobalProtect - Connect button not working Natasha L McCollum GlobalProtect - Connect button not working
+KBA00069306
+
+Escalation Group: Desktop Support
+
+Describe issue: GlobalProtect - Connect button not
+
+When did the issue start?Today
+
+When was the last time it worked?
+Yesterday
+
+What VPN role does the user have in AD (Member Of)?
+VPN SCE GENERAL SSO
+VPN SCE EXT BYOD TD
+
+What troubleshooting did you perform?
+User being asked for admin credentials to run GP
+Guided user to uninstall GP as its version 5.5 to try to install new version
+User once again being asked for admin credentials
+User not on VPN or Edison Location unable to remote in to enter with admin access
+
+Troubleshooting steps:
+
+1. Open Global Protect settings.
+2. Select the VPN portal and click delete.
+3. Once the portal has been deleted, click the ""Add"" button.
+4. Enter the portal the client uses to connect to VPN and click ""Save"".
+5. Client should be able to connect to VPN, if the issue persists, document your findings and route the incident to L2.",74,1,0,1,1,1,0,0,0,1,0,0,1,1,1
+INC000005500096,Citrix Tier1,Citrix Receiver for Google Chrome,Phone,"Citrix - Unable to launch VDI Roberto MontoyaRetana Citrix - Unable to launch VDI
+KBA00071132
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue:
+User reported that was not able to access to his Citrix VDI
+VDEI-W11GDL-068
+Restart Session on Cloud
+Issue persists
+User did basis troubleshoot, same issue
+User tried to access through  https://scectx.cloud.com/
+User got a message to authenticate his account with Microsoft Authenticator
+User reported than was getting a message as his password wxpired
+User was no showing issues on AD nor Okta
+User tried again and got the same message
+Contacted BTAC, on their end after restart the session was running with no issues
+User was not able to access to his VDI for the message for Microsoft Authenticator
+Ticket escalated
+
+When did the issue start? 04/28/25
+
+Is the client having issues with the Remote Desktop Connection app? no
+- If so, use the Windows - Describe issue template.
+
+Is the client from GC Services? no
+- If so, fill the required contact information below:
+  Unit Manager name:
+  Phone number, email address and best time of contact for Unit Manager:
+ 
+Is the client an SCE employee or contractor? contractor
+
+VDI name: VDEI-W11GDL-068
+
+Did the client restart computer after removing cache and history browser?  yes, multiple times
+
+What troubleshooting did you perform? 
+Restart Session on Cloud
+Issue persists
+Contacted BTAC
+Issue persists.
+
+Contact information for all clients:
+
+- External email and phone number with area code:
+525577359242
+robertoretana060598@gmail.com
+
+**Add a screenshot of the Member Of tab in the client's AD account with the VDI role before routing to L2**
+
+IMPORTANT* If the client is from GC Services, please do not e-mail or contact the Call Center Agent, they will not be able to respond because they do not have access, Cc Denys Lanfranco in all communications with the Unit Manager.",27,1,1,1,1,1,1,0,0,1,0,0,1,0,1
+INC000005499447,IMACD,Windows,Phone,"Windows 10 - computer not loading anything KBA00087209
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: user report that the computer they use for security is not working, a blue screen with strips is all comes on screen, computer has been reset multiple times it does not changes
+
+User ID: berrua
+
+Device ID: kiosk hambrung facility, 
+
+Error message:
+user report that the computer they use for security is not working, a blue screen with strips is all comes on screen, computer has been reset multiple times it does not changes
+
+user can be contacted at: 
+6263086890
+
+
+***If you receive a call/chat from a client who has encountered any issue after the Windows 11 update,  provide basic troubleshooting steps as in Windows 10 OS, if the issue persists, please gather the necessary information and escalate this ticket to the next-level team.***
+
+
+Attach screenshot",42,0,0,1,0,1,0,0,0,1,0,0,0,0,1
+INC000005497848,Desktop Support,Microsoft Teams,Chat,"MS Teams - Microphone not working KBA00058909
+
+Escalation group: Messaging - End User Computing
+
+Describe Issue: Microphone not working
+
+Operating system: Win10
+
+Error message: No error message
+
+When did the issue start?  Today
+
+Tried to remote in but got error message using IP address as well.
+User is trying to get microphone working, unable to troubleshoot.
+
+Please contact user 11:00 am to 8:00 pm IST via teams chat.",90,1,1,1,1,1,0,0,1,1,0,0,1,0,0
+INC000005502706,Desktop Support,Acrobat,Phone,"Adobe - <Adobe Pro> - <Unable to combine PDF > John C Lopez Adobe - Application - Describe Issue
+-------------------- Important Note: ----------------------------------------------------------------------------------------
+
+- Use this template if the user reports issues with any Adobe Application.
+
+-------------------- Action Required: ----------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00048016
+- If the client is having license issues, please use the Adobe Acrobat - License Request/Issue template.
+ 
+-------------------- Questionnaire Section: -------------------------------------------------------------------------------
+
+User ID:  lopezjc
+
+Device ID:  d272906
+
+Adobe App (FlashPlayer, Acrobat Reader, DC Pro, Air): Ac
+
+Version: 25.001.20435
+
+Describe issue:  User is unable to combine pdf files. I confirmed that user has a license. Ticket escalated
+
+Error message: reactivate the subscription
+
+When did the issue start: Today
+
+User is available: 7:00 am to 6:00 pm PST. Monday to Friday. Teams 
+Attach screenshot 
+
+-------------------- Routing Instructions ---------------------------------------------------------------------------------
+
+Document and route to Desktop Support",65,1,1,1,1,1,1,0,0,1,0,0,1,1,1
+INC000005502079,Citrix Tier1,Citrix Receiver for Google Chrome,Phone,"Citrix - Unable to launch VDI KBA00071132
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: User is reporting that he is unable to launch his VDI
+
+When did the issue start? today
+
+Is the client having issues with the Remote Desktop Connection app? No
+- If so, use the Windows - Describe issue template.
+
+Is the client from GC Services? no
+- If so, fill the required contact information below:
+  Unit Manager name:
+  Phone number, email address and best time of contact for Unit Manager:
+ 
+Is the client an SCE employee or contractor? contractor
+
+VDI name: SCE\IEWCPCTXX150
+
+Did the client restart computer after removing cache and history browser? Yes
+
+What troubleshooting did you perform?
+
+User already cleared browser cache
+Reset citrix workspace
+It is a server
+escalating
+
+Contact information for all clients:
+
+- External email and phone number with area code: phone - 18683960165
+
+**Add a screenshot of the Member Of tab in the client's AD account with the VDI role before routing to L2**
+
+IMPORTANT* If the client is from GC Services, please do not e-mail or contact the Call Center Agent, they will not be able to respond because they do not have access, Cc Denys Lanfranco in all communications with the Unit Manager.",97,0,0,1,1,1,0,0,0,1,0,0,1,1,1
+INC000005500430,SAP Basis,SAP GUI,Phone,"[Frontend Troubleshooting - P02] SAP -SAP GUI Security KBA00076704
+
+Escalation group: Depending on the issue
+
+Describe issue: User receives an error message every time she opens the SAP ISU p03 and p02 from the Edison portal
+
+What is the client's business unit (Human Capital Management, Supply Chain Management, Customer Relationship Management, Enterprise Asset Management, etc.)? Credit & Collections, Sr Sup
+
+What is the system the client is facing the issue in (P02, P03, A02, Q52, Supplier Portal, etc.)? P02 and p03
+
+Which transaction is the client having the issue with (SU01, IW53, IE03, etc.)? None
+
+When did the issue start? Today
+
+What troubleshooting did you perform?
+Routing ticket to get assistance.
+Working hours: from 8 am to 5 pm
+
+Attach screenshot",63,1,1,1,0,0,1,0,1,1,0,0,1,1,1
+INC000005497679,SAP Basis,SAP GUI,Phone,"[Frontend Troubleshooting - P02] KBA00076704
+
+Escalation group: Depending on the issue
+
+Describe issue: The user says the application would freeze, and he would need to end the app from task manager and start all over again
+
+
+What is the client's business unit (Human Capital Management, Supply Chain Management, Customer Relationship Management, Enterprise Asset Management, etc.)? Construction/Maintenance Acct
+FAO CROE
+
+What is the system the client is facing the issue in (P02, P03, A02, Q52, Supplier Portal, etc.)? PO2
+
+Which transaction is the client having the issue with (SU01, IW53, IE03, etc.)? 100
+
+When did the issue start? For some days 
+
+What troubleshooting did you perform?
+Remoted to user's computer but I was not able to repair the app
+I tried to run some 
+
+Advised the user that the ticket is going to be escalated.
+The user wants to be contacted from - 7:00 to 3:00 PST.
+The user wants to be contacted by - phone 
+Phone number: 9515910484 
+
+Attach screenshot",82,1,1,1,1,0,0,0,1,1,0,0,1,1,1
+INC000005502365,Citrix Tier1,Citrix Receiver for Google Chrome,Phone,"Citrix - Unable to launch VDI Citrix - Unable to launch VDI
+KBA00071132
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue:
+the user called because she cannot open citrix
+
+When did the issue start? today
+
+Is the client having issues with the Remote Desktop Connection app? No
+- If so, use the Windows - Describe issue template.
+
+Is the client from GC Services? No
+- If so, fill the required contact information below:
+  Unit Manager name:
+  Phone number, email address and best time of contact for Unit Manager:
+ 
+Is the client an SCE employee or contractor? Contractor
+
+VDI name: VDEIC-W10-GDL
+
+Did the client restart computer after removing cache and history browser?  YES
+
+What troubleshooting did you perform?
+Clean the cookies and the cache
+Restart the device
+
+
+Contact information for all clients:
+
+- External email and phone number with area code:
+ERIKA.GALLOREYES@SCE.COM
+523310413240
+
+**Add a screenshot of the Member Of tab in the client's AD account with the VDI role before routing to L2**
+
+IMPORTANT* If the client is from GC Services, please do not e-mail or contact the Call Center Agent, they will not be able to respond because they do not have access, Cc Denys Lanfranco in all communications with the Unit Manager.  
+
+
+Auth the user
+Clean the cookies and the cache
+Restart device
+Contacted BTAC for further assistance
+Restart twice de VDI
+Issue still persist
+11 am to 8 pm PST
+Phone 523310413240
+Ticket escalated",96,1,1,1,1,1,1,0,1,0,0,0,1,1,1
+INC000005424106,Citrix Tier1,Citrix Receiver for Google Chrome,Phone,"Citrix - Unable to launch VDI KBA00071132
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue:user manish is unable to access outlook on a vdi session, does not open 
+
+When did the issue start?today
+
+Is the client having issues with the Remote Desktop Connection app? no
+- If so, use the Windows - Describe issue template.
+
+Is the client from GC Services?no
+- If so, fill the required contact information below:
+  Unit Manager name:
+  Phone number, email address and best time of contact for Unit Manager:
+ 
+Is the client an SCE employee or contractor?contractor
+
+VDI name:VPEA-W10GC-042
+
+Did the client restart computer after removing cache and history browser?yes 
+
+What troubleshooting did you perform?logged into vmware and restarted the session . Had user to clear cookies , temp files and cache, shut down the computer and turn back on 
+same issue still persists. User is still unable to open outlook. Does not respond when clicking on the icon, does not open at all. 
+
+Contact information for all clients:
+
+- External email and phone number with area code:+919094956743
+please reach out Kumar via teams anytime as outlook is not opening . He will be unable to receive any info via email
+
+**Add a screenshot of the Member Of tab in the client's AD account with the VDI role before routing to L2**
+
+IMPORTANT* If the client is from GC Services, please do not e-mail or contact the Call Center Agent, they will not be able to respond because they do not have access, Cc Denys Lanfranco in all communications with the Unit Manager.",82,1,1,0,1,1,0,0,1,0,0,0,1,1,1
+INC000005499786,IT Service Desk,HCM-Success Factor - SCE,Chat,"Success Factors (My Learning) - Unable to connect to the GPI Learn items The client is having issues with training or is missing a training module.
+
+I instructed the client to submit a request at https://hrconnectsce.portal.dovetailnow.com/
+
+**Resolve incident**",66,1,1,1,0,0,0,0,1,1,0,0,1,0,0
+INC000005490659,BTAC - Business Technology Assistance Center,Active Directory Services,Phone,"Active Directory - Password Reset -------------------- Important Note: ----------------------------------------------------------------------------------------
+
+- Use this template if the user requesting assistance to reset AD password.
+
+-------------------- Action Required: ---------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00067502
+- Verify the user is connected to SCE via VPN, Ethernet cable, or company WiFi. Otherwise, the password will not sync.
+- Confirm password is synced afterwards by locking and unlocking the laptop with new password.
+
+-------------------- Questionnaire Section: ------------------------------------------------------------------------------
+
+User ID:garciaa
+
+Device ID:D250576
+
+Domain (SCE/LAW/SONGS):sce
+
+Authenticated the client (Yes/No)?no
+
+Did the client receive the 'Windows Password Expiration' pop-up from Aternity? na
+- If so, use the 'Aternity - Windows password expiration pop-up' template.
+
+How did you assist the client?user states has an issue with connecting to yosemite at the office in order to sync password. had user to connect the ethernet cable into the computer . Shewill connect it and call later on to have a password reset or sync password. closing ticket unable to provide script as user hung up the call before. closing ticket 
+
+-------------------- Routing Instructions ---------------------------------------------------------------------------------
+
+Document and resolve your ticket.
+
+- If user is an Executive, route to Executive Support and follow VIP process KBA00007032",89,1,1,1,1,1,0,0,1,1,1,0,1,0,1
+INC000005490270,IT Service Desk,Outlook,Phone,"Outlook - MS Teams add-in missing KBA00068708
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: user needs to get Ms teams adding in her outlook calendar
+
+What troubleshooting did you perform? 
+I remoted in and I enabled Ms teams addin from options, addins, disabled addins, I restarted outlook and it loaded properly.
+
+sousadf
+D406590
+OFFICE
+9093201636",99,1,1,1,1,0,0,0,1,1,1,0,1,0,1
+INC000005490027,IT Service Desk,Active Directory Services,Phone,"Active Directory - Password Reset Lorna A Delgado Active Directory - Password Reset
+-------------------- Important Note: ----------------------------------------------------------------------------------------
+
+- Use this template if the user requesting assistance to reset AD password.
+
+-------------------- Action Required: ---------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00067502
+- Verify the user is connected to SCE via VPN, Ethernet cable, or company WiFi. Otherwise, the password will not sync.
+- Confirm password is synced afterwards by locking and unlocking the laptop with new password.
+
+-------------------- Questionnaire Section: ------------------------------------------------------------------------------
+
+User ID:DELGADL1
+
+Device ID: D280644
+
+Domain (SCE/LAW/SONGS): sce
+
+Authenticated the client (Yes/No)? yes
+
+Did the client receive the 'Windows Password Expiration' pop-up from Aternity?
+- If so, use the 'Aternity - Windows password expiration pop-up' template.
+
+How did you assist the client? provide temporary password, guide user how to sync her password at okta portal
+
+-------------------- Routing Instructions ---------------------------------------------------------------------------------
+
+Document and resolve your ticket.
+
+- If user is an Executive, route to Executive Support and follow VIP process KBA00007032",82,1,0,1,0,0,0,0,1,1,1,0,1,0,1
+INC000005490395,IT Service Desk,OKTA,Phone,"Okta - MFA Reset Manisha Kar Okta - MFA Reset
+KBA00072934
+
+***OKTA SMS text messages will no longer be available for MFA. If users receive an email informing them that this method will be removed, please guide them on how to set up OKTA Verify. Specify that this change is part of the Cybersecurity Admin Standard Policy. If users ask for an SCE cell phone, guide them on how to request one in the Digital Workplace and refer them to their manager.***
+
+Escalation group: IAM - Access Enforcement Technology Support
+
+Describe issue:
+User needs to reset her auth
+Did you authenticate the client (Yes/No)?
+yes
+When did the issue start?
+today
+What troubleshooting did you perform?
+helped the user reset her auth through OKTA
+
+Attach screenshot
+*Please review KBA for troubleshooting steps prior to escalating to L2*",25,0,1,1,1,0,0,0,0,1,0,0,1,0,1
+INC000005491844,IT Service Desk,OKTA,Phone,"Okta - MFA Reset Joseph S Pangan Okta - MFA Reset
+KBA00072934
+
+***OKTA SMS text messages will no longer be available for MFA. If users receive an email informing them that this method will be removed, please guide them on how to set up OKTA Verify. Specify that this change is part of the Cybersecurity Admin Standard Policy. If users ask for an SCE cell phone, guide them on how to request one in the Digital Workplace and refer them to their manager.***
+
+Escalation group: IAM - Access Enforcement Technology Support
+
+Describe issue: user needs to change mfa
+
+Did you authenticate the client (Yes/No)?  yes
+
+When did the issue start? today
+
+What troubleshooting did you perform? reset okta mfa
+
+
+Attach screenshot
+*Please review KBA for troubleshooting steps prior to escalating to L2*",94,1,1,1,1,0,0,0,1,1,1,0,1,0,1
+INC000005491057,BTAC - Business Technology Assistance Center,SecurID Software Token,Phone,"RSA - Pin Reset KBA00062103
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+UserID: GUERREMR
+
+Authenticated the User (Yes/No)? N/A
+
+What troubleshooting did you perform? The user has a new hard token, needs to set a PIN for the first time. Guided the user on how setting up a new PIN after confirming token was assigned on the RSA console.
+
+
+***Resolve ticket***",38,1,1,1,0,0,0,0,0,1,1,0,1,0,1
+INC000005489810,IT Service Desk,OKTA,Phone,"Okta - MFA Reset KBA00072934
+
+***OKTA SMS text messages will no longer be available for MFA. If users receive an email informing them that this method will be removed, please guide them on how to set up OKTA Verify. Specify that this change is part of the Cybersecurity Admin Standard Policy. If users ask for an SCE cell phone, guide them on how to request one in the Digital Workplace and refer them to their manager.***
+
+Escalation group: IAM - Access Enforcement Technology Support
+
+Describe issue: User called to report he had to change his password but was unsure how to do it and if okta verify will work on his end.
+
+Did you authenticate the client (Yes/No)? yes
+
+When did the issue start? today
+
+What troubleshooting did you perform? Remoted into user's device, authenticated the user and guided him on how to set up his okta verify. Ticket resolved.",83,1,1,1,1,1,0,0,1,1,0,0,1,0,0
+INC000005500574,IT Service Desk,Citrix Receiver for Google Chrome,Phone,"Citrix - is frozen KBA00071132
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: citrix is frozen, user cannot use even the keyboard
+
+Is the client having issues with the Remote Desktop Connection app? no
+- If so, use the Windows - Describe issue template.
+
+Is the client from GC Services? no
+- If so, fill the required contact information below:
+  Unit Manager name:
+  Phone number, email address and best time of contact for Unit Manager:
+
+Is the client attempting to access for the first time?
+     - If so, verify the client has a VDI security group in AD.
+     - If there is no VDI security group in AD, assist the client to submit a Citrix Virtual Desktop request in Digital Workplace.
+
+When did the issue start? today
+ 
+Is the client an SCE employee or contractor? contractor
+
+Did the client restart computer after removing cache and history browser?  yes
+
+What troubleshooting did you perform? restarted the vdi, then user cleared cache and try to log in again
+issue resolved
+
+
+Contact information for all clients:
+
+- External email and phone number with area code: 523319859081
+
+**Add a screenshot of the Member Of tab in the client's AD account with the VDI role before routing to L2**
+
+IMPORTANT* If the client is from GC Services, please do not e-mail or contact the Call Center Agent, they will not be able to respond because they do not have access, Cc Denys Lanfranco in all communications with the Unit Manager.  Hector M FloresGutierrez citrix",88,1,0,1,1,1,1,0,1,1,1,0,1,1,1
+INC000005502969,IT Service Desk,Citrix Receiver for Google Chrome,Phone,"Citrix - Signing in issue KBA00071132
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: User is not able to sign in to Citrix 
+
+Is the client having issues with the Remote Desktop Connection app? No 
+- If so, use the Windows - Describe issue template.
+
+Is the client from GC Services? No 
+- If so, fill the required contact information below:
+  Unit Manager name:
+  Phone number, email address and best time of contact for Unit Manager:
+
+Is the client attempting to access for the first time? No 
+     - If so, verify the client has a VDI security group in AD.
+     - If there is no VDI security group in AD, assist the client to submit a Citrix Virtual Desktop request in Digital Workplace.
+
+When did the issue start? Today 
+ 
+Is the client an SCE employee or contractor? contractor
+
+Did the client restart computer after removing cache and history browser?  Yes 
+
+What troubleshooting did you perform?
+I restarted end users citrix machine but the issue is after she accepts the OKTA push it does not authenticate she gets and error message 
+-While checking users OKTA MFA account the user stated that she was already getting off work and preferred to be contacted back tomorrow morning 
+-I advised the user I will have my college from BTAC support contact her in the morning at 9:00 CST  
+-User agree for me to close the ticket for now and have my college just follow up with her tomorrow morning 
+
+Contact information for all clients:
+
+- External email and phone number with area code: Not needed 
+
+**Add a screenshot of the Member Of tab in the client's AD account with the VDI role before routing to L2**
+
+IMPORTANT* If the client is from GC Services, please do not e-mail or contact the Call Center Agent, they will not be able to respond because they do not have access, Cc Denys Lanfranco in all communications with the Unit Manager.",73,1,1,1,1,0,1,0,1,1,1,0,1,1,0
+INC000005500841,IT Service Desk,Yosemite,Phone,"Network Yosemite Wi-Fi/Ethernet - Describe issue (Single user) Caller: Roger D Moore
+User ID: moorerd
+Device ID: D272710
+Location: Irvine 
+Phone: 6263074453
+Describe issue: User called in reporting no internet access 
+Error message: No internet 
+Last time it worked: yesterday
+How many users affected: N/A
+
+-------------------- Important Note: -----------------------------------------------------------------------------------------
+
+- Use this template when the user experiences network connectivity issues at any SCE location.
+
+- The only authorized devices to connect to the Yosemite Wi-Fi network at SCE locations are SCE laptops (with a Device ID). Clients cannot connect company/personal iPhones or iPads to the corporate network; instead, they can use the guest_net Wi-Fi network. You can utilize the available templates to assist them.:
+
+SCE Guest Wi-Fi - Invitation
+SCE Guest Wi-Fi - Self-registration
+
+
+-------------------- Action Required: ----------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00104241
+- Please verify if other users are experiencing the same connection issue at the same location.
+- Ask the user to bypass the docking station and connect the computer directly to the network.
+- Guide the user to provide a screenshot of ipconfig /all from the Command prompt, and attach it to this ticket.   
+
+
+-------------------- Questionnaire Section: -------------------------------------------------------------------------------
+
+(multiple users)
+
+Have you confirmed if other users in the location are also experiencing connectivity issues?
+- If multiple users or an entire location are affected, please use the Network Yosemite Wi-Fi/Ethernet - Describe issue (Multiple users) template.
+
+(User information)
+
+User ID: moorerd
+User name:  Roger D Moore
+Is the user's account locked or disabled in AD? No
+
+(Device information) 
+
+Device ID:  D272710
+Device Model and brand (e.g., iPad, Surface tablet, laptop, desktop PC, specify if other):  laptop
+Operating system and version (e.g., Windows 10, Windows 11, specify if other): Windows 11 Enterprise
+Has the client restarted their device? yes
+- If not, ask the client to restart the device and try again.
+Has the client made any recent changes to their device? No
+Location/site, Floor, Cubicle: Irvine /1st floor/135A
+
+(Connectivity information)
+
+Describe issue: User called in reporting no internet access 
+Error message: no internet access
+Current IP address: 172.16.138.96
+Is the user trying to connect for the 1st time to the office network? No
+Was the user connected to a different location before connecting to the current Ethernet or Wi-Fi network? N/A
+Was the Ethernet LAN connected to the port of the laptop or via a docking station/replicator? Ethernet
+Is the user experiencing intermittent connectivity issues with the network? Yes
+Did the issue occur when the user was connecting to Ethernet or Wi-Fi? Ethernet 
+Was the user connected to Ethernet before switching to the Yosemite Wi-Fi? N/A
+
+(Wi-Fi issues only)
+
+Access point device ID: N/A
+Is the Wi-Fi enabled on the user's device?  N/A
+Is the Wi-Fi network showing up in the list of available networks? No
+Is the user experiencing issues connecting to the Yosemite WiFi or Guest WiFi? N/A
+Has the user tried connecting from a different location within the building?  No
+- When was the last time the user was able to connect? last wee
+- Was it a Wi-Fi connection?
+- What was the Location/site, Floor, Cubicle:  
+
+-------------------- Routing Instructions: -------------------------------------------------------------
+
+Escalation group: Desktop support 
+
+- Ask user how computer is connected to the internet
+- User mentions he is using a docking station
+- Ask user to disconnect the docking station
+- Ask user to wait 30 seconds and connect docking station
+- Issue remains
+- Ask user to connect computer directly to the LAN cable
+- User not able to connect the LAN cable due to the computer does not have a connector
+- Guide user to open CMD
+- Guide user  to run commands netsh winsock reset, netsh int ip reset, ipconfig /release, ipconfig /renew and ipconfig /flushdns
+- Ask user to reboot device
+- Ask user to make a test
+- User confirmed issue got resolved
+- No further assistance required
+- Closing ticket",77,1,1,1,0,1,1,0,1,1,1,0,0,1,1
+INC000005502024,IMACD Non Standard,Remedy,Chat,"Vending Machine/Smart Locker - I received a error. KBA00078209
+
+Escalation group: IT Order Fulfillment
+Device id:  D403602
+Phone: 562-972-7689
+Availability:Anytime
+Best contact: teams 
+Describe issue:
+The vending machine did not dispense the wireless headset. I received a error.
+What product is the client trying to order/having problems with?
+Product Category : Computer Headset;
+Product : Wireless Headset;
+At what Vending Machine is the client trying to pick it up?
+- See locations in the Knowledge Article.
+Vending Machine Location : PIV3;
+
+Has their manager approved the product ordering request?
+Yes
+What is the REQ#?
+REQ000005492900 
+INC000005473944
+What did you advise the client?
+We will get this escalated
+User mentioned:
+I will be in the office tomorrow and I need to use a headset. Should I re-order. It has been 3 weeks.
+
+Attach screenshot",94,1,1,1,1,1,1,0,1,1,1,0,1,1,1
+INC000005500573,IT Service Desk,Citrix Receiver for Google Chrome,Phone,"Citrix - Unable to get VDI to launch KBA00071132
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: The user is not able to launch the VDI.
+
+Is the client having issues with the Remote Desktop Connection app? No
+- If so, use the Windows - Describe issue template.
+
+Is the client from GC Services? No
+- If so, fill the required contact information below:
+  Unit Manager name:
+  Phone number, email address and best time of contact for Unit Manager:
+
+Is the client attempting to access for the first time? No
+     - If so, verify the client has a VDI security group in AD.
+     - If there is no VDI security group in AD, assist the client to submit a Citrix Virtual Desktop request in Digital Workplace.
+
+When did the issue start? 04/28/2025
+ 
+Is the client an SCE employee or contractor? Contractor
+
+Did the client restart computer after removing cache and history browser?  Yes
+
+What troubleshooting did you perform?
+Restarted the VDI 
+Asked the user to restart computer after removing cache and history browser
+The user mentions that he is able to launch now the VDI.
+No further assistance was needed.
+
+Contact information for all clients: Not routing ticket
+
+- External email and phone number with area code: Not routing ticket
+Resolving ticket 
+No further assistance was needed.
+
+**Add a screenshot of the Member Of tab in the client's AD account with the VDI role before routing to L2**
+
+IMPORTANT* If the client is from GC Services, please do not e-mail or contact the Call Center Agent, they will not be able to respond because they do not have access, Cc Denys Lanfranco in all communications with the Unit Manager.",38,1,1,1,0,1,1,1,0,1,0,0,1,1,1
+INC000005500789,IT Service Desk,Active Directory Services,Phone,"Active Directory - Password Reset -------------------- Important Note: ----------------------------------------------------------------------------------------
+
+- Use this template if the user requesting assistance to reset AD password.
+
+-------------------- Action Required: ---------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00067502
+- Verify the user is connected to SCE via VPN, Ethernet cable, or company WiFi. Otherwise, the password will not sync.
+- Confirm password is synced afterwards by locking and unlocking the laptop with new password.
+
+-------------------- Questionnaire Section: ------------------------------------------------------------------------------
+
+User ID: sallins1
+
+Device ID: not provided by the user
+
+Domain (SCE/LAW/SONGS): SCE
+
+Authenticated the client (Yes/No)? Yes
+
+Did the client receive the 'Windows Password Expiration' pop-up from Aternity? No
+- If so, use the 'Aternity - Windows password expiration pop-up' template.
+
+How did you assist the client?
+User called in to told that is unable to login into Citrix
+Since user is contractor, told user about resetting the password.
+Authenticated user.
+Reset the password.
+Provided new password.
+Asked user to try to login on Citrix.
+User was able to login successfully.
+
+Closing ticket
+-------------------- Routing Instructions ---------------------------------------------------------------------------------
+
+Document and resolve your ticket.
+
+- If user is an Executive, route to Executive Support and follow VIP process KBA00007032",39,1,0,0,1,1,1,0,1,0,1,0,1,1,1
+INC000005532934,Desktop Support,Windows,Phone,"Windows - Describe issue Escalation group: Desktop support 
+KBA00029727
+
+***This template can only be used if the issue is related to the Operating System itself, do NOT use this template for issues with other apps/services***
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue:  User doesn't have internet connection with ethernet cable plugged on the computer, also user is unable to connect to VPN and is unable to turn wifi on
+
+Error message:  screenshots attached
+
+Windows version:  Windows 11
+
+Is the Operating System starting up? Yes
+
+What troubleshooting did you perform?
+Routing to Desktop Support
+
+Hours available: 8 -5 
+
+How would you like to be contacted: Phone
+
+Attach screenshot",32,1,0,1,1,0,1,0,1,1,0,0,0,1,1
+INC000005546406,IMACD,U2412M,Phone,"Windows - Monitor issue/setup Caller: Alfred M Perez
+User ID: perezam
+Device ID: D284453
+Location: Santa Ana Garage 
+Phone: 7146046831
+Describe issue: User called in reporting the computer not recognizing the 2 external monitors
+Error message: no error message
+Last time it worked: 05-24-25
+How many users affected:  N/A
+
+KBA00082614
+
+Escalation group: IMACD
+
+Describe issue: User called in reporting the computer not recognizing the 2 external monitors
+
+Operating System: Windows 11
+
+Monitor brand/model: Dell 
+
+What type of cable is the client using for the monitor? User does not know, by the description of the user it could be Serial port
+
+What troubleshooting did you perform?
+
+- User mentions both monitors are connected  to the docking station
+- Remoted to user device through ""Remote Control Viewer""
+- Confirmed issue
+- Ask user to disconnect the docking station
+- Ask user to reconnect the docking station
+- Issue remains
+- Ask user to connect one monitor directly to the computer
+- User mentions the ports does not match 
+- No updates available 
+- Please assist
+
+Best time to contact: 3:00 pm - 12:00 am PST Monday to Thursday
+Method of contact: email 
+
+
+Answer the following if you are routing the incident to L2:
+
+Building: Santa Ana Garage
+
+Floor: 1st
+
+Cubicle: N/A
+
+Best contact method:  email",76,1,1,1,0,1,0,0,1,1,0,0,1,0,1
+INC000005548198,Citrix Tier1,Snowflake Platform Admin,Phone,"EDW Snowflake - set up snowflake connector for python. Describe issue:user is trying to set up snowflake connector for python but unable to get it done due to below error.
+error: Microsoft Visual C++ 14.0 or greater is required. Get it with ""‌Microsoft C++ Build Tools""‌: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+user requested to route the ticket to citrix team for assistance
+Device ID or VDI Name: VDEA-W10STD-362
+Contact Number: +91 8610729137
+
+available between 9:30 pm to 5 am (pst).9:01 PM
+method of communication : teams or mail or phone call",75,1,1,1,1,1,1,0,1,1,0,0,1,1,1
+INC000005546560,SAP Basis,SAP GUI,Phone,"[Printer Configuration - P02] SAP - Printing issue KBA00076736
+
+Escalation group: SAP Basis
+
+Describe issue: How to change printer to correct one and printer is not printing the job.
+
+Error message: No error message
+
+SAP Version:  SAP 800
+
+Printer device ID: D254278
+
+Printer model:  Sharp Model # MX3071B
+
+When did the issue start? 05/27/2025
+
+What troubleshooting did you perform?
+Remote to the users computer: 
+Type the transaction code su3, and press enter.
+Go to Defaults and click the button next to Output Device.
+Type the printer’s device ID in the Location field starting with an *, example: *D254237.
+Double click the correct device name to select it.
+- Important: Make sure the Print Now box is checked.
+Click Save.
+The user is seeing the printer now, but it is not printing.
+Check if it was the correct device ID, the user did provide the correct one, the user sent a test print using MS Word and it did print, but when sending it using SAP it does not send the job to print
+Routing to L2
+Please assist the user
+Contact:  9098964166
+Availability:  3PM-1AM PST
+
+
+Attach screenshot  Yes",48,1,1,1,1,1,0,0,0,1,0,0,1,1,1
+INC000005548193,IMACD,Latitude 7424 - SCE,Phone,"Computer Hardware Issues - [Laptop is overheating] KBA00010613
+
+Route to IMACD after basic troubleshooting  DO NOT advise to order without routing to IMACD to verify first.  Have the user unplug the machine if warranted.
+
+Describe issue: User called in to report that her laptop is overheating 
+
+Device ID: d402030
+
+When did the issue start? Today
+
+What troubleshooting did you perform? I advised the user to please Check Airflow: Ensure that air vents are not blocked.
+-User will like a tech to check why the laptop is overheating 
+
+Building: GO3
+
+Floor: 2nd floor 
+
+Cube: User does not know her cubicle number 
+
+Best time to contact:  8am -5pm 
+
+How would the client like to be contacted? User will like to be contact via MS teams",73,0,1,1,1,1,0,0,0,1,0,0,1,1,1
+INC000005544959,Citrix Tier1,Citrix Receiver for Google Chrome,Phone,"Workspace Issue KBA00071132
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: Unable to launch VDI
+
+When did the issue start? Today
+
+Is the client having issues with the Remote Desktop Connection app? No
+- If so, use the Windows - Describe issue template.
+
+Is the client from GC Services? No
+- If so, fill the required contact information below:
+  Unit Manager name:
+  Phone number, email address and best time of contact for Unit Manager:
+ 
+Is the client an SCE employee or contractor? Contractor
+
+VDI name: VDEI-W11STD-138
+
+Did the client restart computer after removing cache and history browser?  Yes
+
+What troubleshooting did you perform?
+Told the user to logout from Citrix
+I go into  Citrix Director and restart user's VDI
+Advise the user to login back and check applications
+Issue continues
+
+Routing to Citrix Tier 
+
+
+Contact information for all clients:
+
+Hours available: next 5 hours
+
+How would you like to be contacted: Phone
+
+- External email and phone number with area code:
+rahul.dey01@infosys.com // +91 8252169965
+
+**Add a screenshot of the Member Of tab in the client's AD account with the VDI role before routing to L2**
+
+IMPORTANT* If the client is from GC Services, please do not e-mail or contact the Call Center Agent, they will not be able to respond because they do not have access, Cc Denys Lanfranco in all communications with the Unit Manager.",90,1,1,1,1,1,0,0,1,0,0,0,1,1,1
+INC000005545063,Citrix Tier II,Analysis for Office,Chat,Citrix is slow repeated instructions USER ID: GUDURIS nan,48,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+INC000005546870,Tech Bar,BitLocker,Phone,"BitLocker screen - Computer locked KBA00073125
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue:
+user  has the bit locker blue screen 
+When did the issue start?
+today 
+Operating System: 11
+
+What troubleshooting did you perform? 
+
+device ID D404143
+user can be contacted at 6268303752 since tomorrow at anytime",21,1,1,1,0,0,0,0,1,0,0,0,1,1,1
+INC000005545053,Citrix Tier1,Citrix Receiver for Google Chrome,Chat,"Citrix - Unable to launch VDI KBA00071132
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: user Jayanthi3
+
+When did the issue start? today
+
+Is the client having issues with the Remote Desktop Connection app? no
+- If so, use the Windows - Describe issue template.
+
+Is the client from GC Services? no
+- If so, fill the required contact information below:
+  Unit Manager name:
+  Phone number, email address and best time of contact for Unit Manager:
+ 
+Is the client an SCE employee or contractor?  contractor
+
+VDI name:   VDEI-W10IEE-285
+
+Did the client restart computer after removing cache and history browser? yes
+
+What troubleshooting did you perform? unable to confirm with the user that the issue is resolved after restarting
+
+Contact information for all clients:
+
+- External email and phone number with area code:
+Contact: 9515118966
+JAMUDUGANI.JAYANTHI@INFOSYS.COM
+
+**Add a screenshot of the Member Of tab in the client's AD account with the VDI role before routing to L2**
+
+IMPORTANT* If the client is from GC Services, please do not e-mail or contact the Call Center Agent, they will not be able to respond because they do not have access, Cc Denys Lanfranco in all communications with the Unit Manager.",57,1,1,0,1,1,0,0,1,0,0,0,1,1,1
+INC000005507483,Desktop Support,Windows,Phone,"Windows - Audio issues KBA00082910
+
+Escalation group: Depending on the issue
+
+Describe issue: the user says she is not able to hear correctly in the headset 
+
+When did the issue start? today with new laptop 
+
+If the client is using a headset, what is the make and model? 
+
+What troubleshooting did you perform?
+Remoted to user's computer and tried updating the drivers
+Reset and repair the teams app but the same issue
+
+Advised the user that the ticket is going to be escalated.
+The user wants to be contacted from - 7:00 to 3:00 PST.
+The user wants to be contacted by - phone
+Phone number:   6262179865
+
+
+Attach screenshot",88,1,1,1,1,1,1,0,1,1,1,0,1,1,1
+INC000005517069,Desktop Support,Acrobat,Phone,"Adobe - <Acrobat> - <Adobe Acrobat DC License has expired or not been activated> Tamra R Lakes Adobe - Application - Describe Issue
+-------------------- Important Note: ----------------------------------------------------------------------------------------
+
+- Use this template if the user reports issues with any Adobe Application.
+
+-------------------- Action Required: ----------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00048016
+- If the client is having license issues, please use the Adobe Acrobat - License Request/Issue template.
+ 
+-------------------- Questionnaire Section: -------------------------------------------------------------------------------
+
+User ID: LAKESTR
+
+Device ID: d253096
+
+Adobe App (FlashPlayer, Acrobat Reader, DC Pro, Air):
+
+Version: adobe acrobat
+
+Describe issue: user is having issues trying to combine some pdf files
+
+Error message: screen attached
+
+When did the issue start: today
+
+Attach screenshot 
+
+-------------------- Routing Instructions ---------------------------------------------------------------------------------
+
+Document and route to Desktop Support",94,0,0,1,0,1,1,0,1,1,0,0,1,1,1
+INC000005544328,IAM - Access Enforcement Technology Support,Active Directory Services,Phone,"Active Directory - Unable to access to Windows Active Directory - Describe Issue
+-------------------- Important Note: ----------------------------------------------------------------------------------------
+
+- Use this template if the user reports issues with Active Directory
+
+-------------------- Action Required: ---------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00065124
+
+-------------------- Questionnaire Section: ------------------------------------------------------------------------------
+
+User ID:  inturisr
+
+Device ID: D284200
+
+Describe issue: User reported he was not able to access to his windows account due to invalid credentials.
+User authenticated and when trying to change his password it appeared an error message.
+Advised the user the ticket would be escalated.
+User mentioned he already tried connecting to the SCE network, but issue persisted.
+9 AM - 5 PM PST
+Phone to 3466041233
+
+Preferred contact time: 9 AM - 5 PM PST
+
+Preferred contact method: Phone to 3466041233
+
+How did you assist the client? 
+User reported he was not able to access to his windows account due to invalid credentials.
+User authenticated and when trying to change his password it appeared an error message.
+Advised the user the ticket would be escalated.
+User mentioned he already tried connecting to the SCE network, but issue persisted.
+9 AM - 5 PM PST
+Phone to 3466041233
+
+-------------------- Routing Instructions ---------------------------------------------------------------------------------
+
+Document your ticket and route it to Identity and Access Management - Operations Support",94,1,0,1,1,1,1,0,1,1,0,0,1,1,1
+INC000005536960,Identity and Access Management - Technology Support,SailPoint,Phone,"IGAM - Request pending 2060150 Saathvik Bandlamudi IGAM - Track Request Status
+KBA00058402
+
+Client called in to track request status:
+
+(Go to IGAM ---> My Request ---> Access Requests)
+
+Type of Request/Application Name: SAP Enterprise Central Component (ECC) P02 
+
+
+When was the request submitted? 04/25/2025 08:54:20 
+
+2060150
+Advised user request is __ Request pending_____ status. 
+routing to IAM- Technology Support
+
+***Resolved ticket***",92,0,1,0,1,0,1,0,0,0,0,0,1,1,1
+INC000005539312,Desktop Support,Windows,Chat,"**REFER TO SUBMITTED REQUEST** Bluebeam - Installation -------------------- Important note: -----------------------------------------------------------------------------
+
+- Use this template if the user is requesting Bluebeam installation.
+
+-------------------- Action Required: ----------------------------------------------------------------------------
+
+- For Bluebeam license expired (trial version): Follow the instructions in the Job Aid 'Register - Bluebeam Trial version' located in Daily Tools > Job Aids.
+
+-------------------- Questionnaire Section: ----------------------------------------------------------------------
+
+Device id: D292232 
+Phone:      626-419-0156
+Availability: until 4:00PM today and anytime tomorrow from 8:30AM to 4:00PM. 
+Best contact: teams
+
+UserID:LOPEZCG
+
+Has the user's device been refreshed?
+yes
+Is the user requesting Bluebeam for the first time?
+  -If Yes, Continue with the next questions.
+no
+Is the user from T&D Planning?
+  - If not, advise the client to create a software request in Digital Workplace for Bluebeam Revu Standard 2018 18.6.0
+no
+  - If the user is from T&D Planning:
+1. Use the Report an Issue option in Digital Workplace to request the software. 
+2. Fill the required information, add Bluebeam as the application name. 
+3. Select Yes for ""Any Suggested Resolver Group?"" and select IT Order Fulfillment.
+
+followed the kba to get the trial version but stll getting the license pop up
+unable to use software
+Resolve ticket
+
+-------------------- Routing Instructions: ------------------------------------------------------------------------
+
+Escalation group: None",68,1,1,0,0,1,1,0,1,0,0,0,1,1,1
+INC000005507890,Desktop Support,Windows,Phone,"Windows - Audio issues Linda M Plaza Windows - Audio issues
+KBA00082910
+
+Escalation group: Depending on the issue
+
+Describe issue:
+USer reports no output audio is detected
+When did the issue start?
+today, after w11 update
+If the client is using a headset, what is the make and model?
+dell
+What troubleshooting did you perform?
+6263446054
+
+Attach screenshot",90,0,1,1,1,0,1,0,1,1,0,0,1,1,1
+INC000005525683,Tech Bar,Windows,Phone,"Windows - Audio issues KBA00082910
+
+Escalation group: Depending on the issue
+
+Describe issue: User having issues with audio on the computer 
+
+When did the issue start? Today 
+
+If the client is using a headset, what is the make and model? Computer speakers  
+
+What troubleshooting did you perform? Remoted and updated drivers, policy and restarted
+User is also getting error for dock failing
+The issue with audio is still happening
+
+
+Attach screenshot",48,1,0,1,0,1,1,0,0,1,0,0,1,1,1
+INC000005517900,Desktop Support,Outlook,Phone,"Outlook - ""Your organization's policies are preventing us from completing this action for you"" KBA00074025
+
+Escalation group: Contact BTAC - Business Technology Assistance Center.
+
+Describe issue: The user can't click on any link on his Outlook 2016 app, he gets an error message instead: ""Your organization's policies are preventing us from completing this action for you"". He can normally open links in Outlook's web version.
+
+When did the issue start? NP
+
+Does the client have Aternity installed? Yes
+
+What troubleshooting did you perform?
+-Remoted in
+-The user needed Office 2016 license reactivated, entered the product key and restarted Office
+-Repaired Office
+-Verified Edge was the default browser, it was
+-Reset Edge settings
+-Verified Outlook was the default mail app, it wasn't
+-Ran sfc /scannow on CMD and repaired corrupted files
+-Ran gpupdate on CMD. Issue persists, please assist.
+
+User ID: MORGANCK
+Device ID: D268099
+Best time to contact the user: 6AM - 2:30PM
+Best contact method: Phone 5627880773
+
+Attach screenshot",70,1,0,1,1,1,1,0,1,1,0,0,1,1,1
+INC000005546191,IMACD,Latitude 7424 - SCE,Phone,"Computer Hardware Issues - Ovearheating on device Seema Abraham Computer Hardware Issues - Describe issue
+KBA00010613
+
+Route to IMACD after basic troubleshooting  DO NOT advise to order without routing to IMACD to verify first.  Have the user unplug the machine if warranted.
+
+Describe issue:
+User reported after a bluescreen in INC000005546187 during the same call then, she reported the pc was overheating and tried to restart it but was not responding at all.
+User got suggested to wait to cooldown the pc before to try again.
+User also reported some GP issues, but issue could be related to the bluescreen and the overheating on device
+User reported the pc was provided 2 months ago.
+Ticket escalated.
+
+Device ID: D404417
+
+When did the issue start? 05/27/25
+
+What troubleshooting did you perform?
+User got suggested to cooldown the pc before to try to turn on again the device
+Unplugged the charger in the meantime.
+
+Building:  Corp Whse Santa Ana
+
+Floor: None
+
+Cube: None
+
+Best time to contact: Monday to Friday
+8:00 AM - 5:00 PM PST
+
+How would the client like to be contacted?  Phone
+
+
+Seema Abraham
+ABRAHAS
+D404417
+9493221735
+Monday to Friday
+8:00 AM - 5:00 PM PST",91,0,1,1,1,1,0,0,1,1,0,0,1,1,1
+INC000005546254,IT Service Desk,Windows,Phone,"Windows - Software install/reinstall Victor D Aguilar Windows - Software install/reinstall
+KBA00082602
+
+***If there is a template for the software you need to install, please use that template instead***
+
+Escalation group: None
+
+Describe issue: user needed help to install doble protection suite
+
+Windows version: win 10
+
+What software is the client requesting to install? doble protection suite 4v
+
+Does the client have the software installer they are requesting to install? no
+- If yes, use the Template Digital Workplace - Application Packaging Request.
+- If not: 
+- First ensure that the user does not have any existing requests for the same software: If a request for this software already exists, do not attempt to install it.
+
+- If the user does not have any pending requests for the software. 
+
+Were you able to install it from Sims? yes
+- If not, use the Digital Workplace - How to request software template to request it.
+
+
+Resolve incident",34,1,0,1,1,1,0,0,1,1,0,0,1,0,0
+INC000005545529,BTAC - Business Technology Assistance Center,SecurID Software Token,Phone,"RSA - Pin Reset RSA - Pin Reset
+KBA00062103
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+UserID: BISSUEDA
+
+Authenticated the User (Yes/No)? yes
+
+What troubleshooting did you perform?
+authenticated user
+cleared pin 
+guided user how to connect to NetMotion user states he doesn´t know what is NetMotion , mobility or vpn
+contacted btac
+btac told me to assign the ticket with them
+best method of contact teams or  phone 5627132262
+available hours 6:00am to 2:30 pm  pst
+
+***Resolve ticket***",25,0,1,0,1,1,0,0,1,1,0,0,1,0,1
+INC000005545021,IT Service Desk,OKTA,Phone,"Okta - MFA Reset Nicolas PugaMontoya Okta - MFA Reset
+KBA00072934
+
+***OKTA SMS text messages will no longer be available for MFA. If users receive an email informing them that this method will be removed, please guide them on how to set up OKTA Verify. Specify that this change is part of the Cybersecurity Admin Standard Policy. If users ask for an SCE cell phone, guide them on how to request one in the Digital Workplace and refer them to their manager.***
+
+Escalation group: IAM - Access Enforcement Technology Support
+
+Describe issue: User got another phone to setup OKTA Verify.
+
+
+
+Did you authenticate the client (Yes/No)? yes
+
+When did the issue start? today 
+
+What troubleshooting did you perform? 
+Advised user about resetting the MFA method off of his OKTA account.
+Authenticated user and removed the OKTA Verify.
+Advised user to open his browser and go to eix.okta.com to get the QR code to do the setup.
+User successfully setup OKTA Verify.
+
+Ticket closed.
+
+
+
+Attach screenshot
+*Please review KBA for troubleshooting steps prior to escalating to L2*",77,1,1,1,1,1,0,0,0,1,0,0,1,0,1
+INC000005534849,IT Service Desk,Windows,Phone,"Windows - Low disk space William Searles Windows - Low disk space
+KBA00080134
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: Low disk space
+
+When did the issue start? 
+Today
+
+Did the client receive the 'Low Disk Space' pop-up from Aternity?
+- If so, use the Aternity - Low disk space pop-up template
+
+How much available space did the client have, and how much were you able to recover?
+77GB before 131GB after
+
+What troubleshooting did you perform? 
+Deleted 1 unused user profile as per btac instruction",88,1,1,1,0,0,0,0,1,1,0,0,1,0,1
+INC000005547982,BTAC - Business Technology Assistance Center,iPhone,Phone,"Mobile Devices iPhone/iPad - Passcode reset KBA00091943
+
+Escalation: Contact BTAC - Business Technology Assistance Center for assistance.
+
+Phone number of the device experiencing the issue: 
+
+Authenticated the client (Yes/No)? yes
+
+Is the client a field user with an iPad? yes
+if so, Contact BTAC for further assistance.
+
+Is Intune Company Portal installed on the device (Y/N)? no 
+
+Walk the user through the reset passcode link https://portal.manage.microsoft.com
+
+Was the user able to reset their passcode (Yes/No)? no 
+if No, authenticate the user and contact BTAC. 
+
+
+Verified users information and unlocked passcode on the jamf portal. 
+
+had user to conect, he was able to input a new passcode and unlck the ipad 
+
+no further action taken. Closing ticket 
+
+
+***Please review the KBA steps for iPhone passcode reset/phone disabled***",86,1,1,1,1,1,0,0,0,1,0,0,0,0,1
+INC000005543078,IT Service Desk,Citrix Receiver for Google Chrome,Phone,"Citrix - Unable to launch VDI KBA00071132
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: Unable to access Citrix
+
+When did the issue start? Today
+
+Is the client having issues with the Remote Desktop Connection app? No
+- If so, use the Windows - Describe issue template.
+
+Is the client from GC Services? No
+- If so, fill the required contact information below:
+  Unit Manager name:
+  Phone number, email address and best time of contact for Unit Manager:
+ 
+Is the client an SCE employee or contractor? Contractor
+
+VDI name: No provided
+
+Did the client restart computer after removing cache and history browser?  Yes
+
+What troubleshooting did you perform?
+Issue was resolved itself
+
+Contact information for all clients:
+
+- External email and phone number with area code:
+
+**Add a screenshot of the Member Of tab in the client's AD account with the VDI role before routing to L2**
+
+IMPORTANT* If the client is from GC Services, please do not e-mail or contact the Call Center Agent, they will not be able to respond because they do not have access, Cc Denys Lanfranco in all communications with the Unit Manager.",42,1,0,1,0,0,0,0,0,1,0,0,1,0,0
+INC000005535749,IT Service Desk,Windows,Phone,"Windows - Audio issues Windows - Audio issues
+KBA00082910
+
+Escalation group: Depending on the issue
+
+Describe issue:
+The user called because he cannot hear anything on his laptop
+
+When did the issue start? Today
+
+If the client is using a headset, what is the make and model? NO
+
+What troubleshooting did you perform?
+Remote to the device
+Check Dell command update
+User has update pending
+Finish all the updates and restart the device
+Ticket closed
+
+
+Attach screenshot",71,1,1,1,1,0,0,0,0,1,0,0,1,0,1
+INC000005536710,Desktop Support,Windows,Chat,"Windows - Slow Performance KBA00082532
+
+Escalation group: Desktop Support
+
+Describe issue: Slow performance, restart button not working
+
+Windows version: Win10
+
+When did the issue start: Today
+
+How much available free disk space does the client have? 200 GB to 500 GB
+
+What troubleshooting did you perform?
+
+Remoted into user's computer, performed disk cleanup.
+Deleted temp files, removed web credentials.
+Cleared App V and teams cache.
+User was missing several updates, also tried restarting but the restart button is not working, when clicking on it, nothing happens.
+
+Please reach out to user via PHONE anytime.",96,1,1,0,1,1,1,1,1,1,1,1,1,1,1
+INC000005542504,Desktop Support,Windows,Phone,"Windows - Start menu crashing issues Davion H Mays Windows - Describe issue
+KBA00029727
+
+***This template can only be used if the issue is related to the Operating System itself, do NOT use this template for issues with other apps/services***
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: User Davion Mays is not able to use the ALL tab under the star icon on the task bar. When he tries to select that option nothing happens.
+
+Error message:  No error
+
+Windows version:  
+Microsoft Windows 11 Enterprise 22H2
+
+Is the Operating System starting up? yes
+
+What troubleshooting did you perform? I ran sfc /scannow command. I checked Error checking from local drive c:. Confirmed battery best performance status. User restarted, checked software center update. issue persists. Ticket escalated
+
+User is available: 6:00 to 4:30 pm Monday to Friday. by phone 909-303-0584
+Attach screenshot",84,1,1,1,1,0,1,1,1,0,1,1,1,1,1
+INC000005531103,BTAC - Business Technology Assistance Center,Windows,Phone,"Windows - Software install/reinstall KBA00082602
+
+***If there is a template for the software you need to install, please use that template instead***
+
+Escalation group: None
+
+Describe issue: User wants to install a software that his supervisor specified
+
+Windows version: win11
+
+What software is the client requesting to install? RTU configtool v2.6.0
+
+Does the client have the software installer they are requesting to install? no
+- If yes, use the Template Digital Workplace - Application Packaging Request.
+- If not: 
+- First ensure that the user does not have any existing requests for the same software: If a request for this software already exists, do not attempt to install it.
+
+- If the user does not have any pending requests for the software. 
+
+Were you able to install it from Sims? no
+- If not, use the Digital Workplace - How to request software template to request it.
+
+
+Resolve incident",67,1,1,0,1,1,1,1,1,1,1,0,1,1,1
+INC000005542247,BTAC - Business Technology Assistance Center,Windows,Phone,"Windows - network settings reset KBA00029727
+
+***This template can only be used if the issue is related to the Operating System itself, do NOT use this template for issues with other apps/services***
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: user was experiencing some connection issues and ethernet showed as connected but not signed in
+
+Error message: connected but not signed in
+
+Windows version: win 11
+
+Is the Operating System starting up? yes, it is
+
+What troubleshooting did you perform?
+I remoted in, ran ipconfig commands, I asked user to restart and everything is connecting properly.
+
+Attach screenshot 
+
+acompawp
+D275604
+OFFICE
+9093686339",87,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+INC000005536894,Windows11,Windows,Phone,"Windows 11 - Issues opening files after updating to Windows 11. Windows 11 - Describe issue
+KBA00087209
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: User reported issues opening files after updating to Windows 11. (see attachment)
+Remoted into user's computer.
+Captured a screenshot of the issue.
+Advised user about escalating this issue to the next level support team. User wants to be contacted as soon as possible by phone at 7142930305.
+
+User ID: tokichw
+
+Device ID: D284130
+
+Error message: (see attachment).
+
+
+***If you receive a call/chat from a client who has encountered any issue after the Windows 11 update,  provide basic troubleshooting steps as in Windows 10 OS, if the issue persists, please gather the necessary information and escalate this ticket to the next-level team.***
+
+
+Attach screenshot",96,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+INC000005545553,IT Service Desk,Windows,Phone,"Windows - password not syncing KBA00029727
+
+***This template can only be used if the issue is related to the Operating System itself, do NOT use this template for issues with other apps/services***
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: user states that reset her password and now is not syncing
+
+Error message: NA
+
+Windows version:  11
+
+Is the Operating System starting up? yes
+
+What troubleshooting did you perform?
+advised user to connect VPN
+lock/unlock computer
+issue fixed
+
+
+Attach screenshot",55,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+INC000005517675,IT Service Desk,Windows,Phone,"Windows - Global protect not showing on screen Windows - Describe issue
+KBA00029727
+
+***This template can only be used if the issue is related to the Operating System itself, do NOT use this template for issues with other apps/services***
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue: User called to report she didn't get her computer set up right since she didn't have vpn. 
+
+Error message: n/a
+
+Windows version: win 11
+
+Is the Operating System starting up? yes
+
+What troubleshooting did you perform? Remoted into user's device through teams and found the icon and pinned it on her taskbar. User asked of she could get her files synced. Advised user to connect to GP to have everything synced. Ticket resolved and closed as informational. 
+
+
+
+Attach screenshot",51,1,1,1,1,1,1,0,1,1,0,0,0,1,1
+INC000005583534,IT Service Desk,Active Directory Services,Chat,"Active Directory - (Windows) Password Sync issues -------------------- Important Note: -----------------------------------------------------------------------------------------
+
+- Use this template ONLY if the client has already changed their password
+
+-------------------- Action Required: ----------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00095842
+
+Scenario #1: Client can unlock the computer with the old password but not the new one.
+
+Ensure client is connected to VPN.
+Wait 1 minute while connected.
+Lock and unlock the computer using the new password.
+
+Scenario #2: Client cannot unlock the computer with either password.
+
+Validate account is not locked/inactive in AD or Okta.
+Test unlocking with both passwords.
+Client must go to the office to synchronize the computer.
+
+Scenario #3: Client unlocks the computer with the old password but cannot connect to VPN.
+
+If stuck at ""enter AD credentials"" screen, follow steps below; otherwise, use RSA template.
+Confirm VPN access and account status in AD.
+Connect to VPN using the new password.
+Lock and unlock the computer using the new password.",38,1,1,1,1,1,0,0,1,0,0,0,0,0,1
+INC000005582832,IT Service Desk,Active Directory Services,Phone,"Active Directory - Password Reset Victor Perez Active Directory - Password Reset
+-------------------- Important Note: ----------------------------------------------------------------------------------------
+
+- Use this template if the user requesting assistance to reset AD password.
+
+-------------------- Action Required: ---------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00067502
+- Verify the user is connected to SCE via VPN, Ethernet cable, or company WiFi. Otherwise, the password will not sync.
+- Confirm password is synced afterwards by locking and unlocking the laptop with new password.
+
+-------------------- Questionnaire Section: ------------------------------------------------------------------------------
+
+User ID: PEREZV2
+
+Device ID: d261827 
+
+Domain (SCE/LAW/SONGS):
+
+Authenticated the client (Yes/No)? yes
+
+Did the client receive the 'Windows Password Expiration' pop-up from Aternity? no
+- If so, use the 'Aternity - Windows password expiration pop-up' template.
+
+How did you assist the client? User password wasn't working. I provided the temporary password and guided him on how to change the password. Ticket resolved 
+
+-------------------- Routing Instructions ---------------------------------------------------------------------------------
+
+Document and resolve your ticket.
+
+- If user is an Executive, route to Executive Support and follow VIP process KBA00007032",72,1,1,1,1,1,0,0,0,1,1,0,1,0,1
+INC000005586531,BTAC - Business Technology Assistance Center,OKTA,Phone,"Okta - MFA Reset KBA00072934
+
+***OKTA SMS text messages will no longer be available for MFA. If users receive an email informing them that this method will be removed, please guide them on how to set up OKTA Verify. Specify that this change is part of the Cybersecurity Admin Standard Policy. If users ask for an SCE cell phone, guide them on how to request one in the Digital Workplace and refer them to their manager.***
+
+Escalation group: IAM - Access Enforcement Technology Support
+
+Describe issue: User wants to setup his new MFA
+
+Did you authenticate the client (Yes/No)? Yes
+
+When did the issue start? today
+
+What troubleshooting did you perform?
+
+after initial script:
+-authenticated the user
+-reset the okta authenticators
+-assisted the user in the setup of his authenticators
+
+
+Attach screenshot
+*Please review KBA for troubleshooting steps prior to escalating to L2*",72,1,1,1,1,1,0,1,1,1,0,0,1,0,1
+INC000005579960,BTAC - Business Technology Assistance Center,OKTA,Phone,"Okta - MFA Reset KBA00072934
+
+***OKTA SMS text messages will no longer be available for MFA. If users receive an email informing them that this method will be removed, please guide them on how to set up OKTA Verify. Specify that this change is part of the Cybersecurity Admin Standard Policy. If users ask for an SCE cell phone, guide them on how to request one in the Digital Workplace and refer them to their manager.***
+
+Escalation group: IAM - Access Enforcement Technology Support
+
+Describe issue: user needs his okta verify app
+
+Did you authenticate the client (Yes/No)? yes
+
+When did the issue start? today
+
+What troubleshooting did you perform?
+I verified user and reset his okta verify app and guided him to download it again and set it up. He successfully enrolled his device.
+
+Attach screenshot
+*Please review KBA for troubleshooting steps prior to escalating to L2* 
+
+wrightbk
+D273550 I was unable to relate this device id
+field
+9497013456",56,1,1,1,1,1,0,0,1,1,1,0,0,0,1
+INC000005582725,IT Service Desk,OKTA,Phone,"Okta - MFA Reset Okta - MFA Reset
+KBA00072934
+
+***OKTA SMS text messages will no longer be available for MFA. If users receive an email informing them that this method will be removed, please guide them on how to set up OKTA Verify. Specify that this change is part of the Cybersecurity Admin Standard Policy. If users ask for an SCE cell phone, guide them on how to request one in the Digital Workplace and refer them to their manager.***
+
+Escalation group: IAM - Access Enforcement Technology Support
+
+Describe issue: User reported needing setup the Okta verify in his new phone.
+Authenticated the user.
+Reset the authenticators.
+Asked user to go to eix.okta.com.
+Guided the user to setup the Okta verify.
+Issue resolved.
+
+
+Did you authenticate the client (Yes/No)? Yes
+
+When did the issue start? Today
+
+What troubleshooting did you perform? User reported needing setup the Okta verify in his new phone.
+Authenticated the user.
+Reset the authenticators.
+Asked user to go to eix.okta.com.
+Guided the user to setup the Okta verify.
+Issue resolved.
+
+
+
+Attach screenshot
+*Please review KBA for troubleshooting steps prior to escalating to L2*",42,0,1,1,1,1,0,0,1,1,1,0,1,0,0
+INC000005582835,IT Service Desk,Active Directory Services,Phone,"Active Directory - Account Unlock -------------------- Important Note: ----------------------------------------------------------------------------------------
+
+- Use this template if the user reports his / her SCE account is locked
+
+-------------------- Action Required: ---------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00067507
+- If the account has been locked more than once, follow the Active Directory - Frequent Lockout template 
+
+-------------------- Questionnaire Section: ------------------------------------------------------------------------------
+
+User ID: vegasue
+
+Device ID:  NA
+
+Describe issue: unable to login
+
+When did the issue start? today
+
+SCE Employee / Contractor:  sce
+
+Domain (SCE/Law/SONGS): sce
+
+Authenticated the client (Yes/No)? yes
+
+What troubleshooting did you perform? unlocked
+
+Is the client from GC Services? no
+- If so, fill the required contact information below:
+  Unit Manager name:
+  Unit Manager phone number:
+  Unit Manager e-mail address:
+  Best time of contact for Unit Manager:
+
+-------------------- Routing Instructions ---------------------------------------------------------------------------------
+
+Document and resolve your ticket.
+
+- If user is an Executive, route to Executive Support and follow VIP process KBA00007032",41,1,1,1,0,0,0,0,0,1,1,0,0,0,1
+INC000005582916,IT Service Desk,iPhone,Phone,"Mobile Devices iPhone/iPad - Passcode reset Mobile Devices iPhone/iPad - Passcode reset
+KBA00091943
+
+Escalation: Contact BTAC - Business Technology Assistance Center for assistance.
+
+Phone number of the device experiencing the issue: 6264223596
+
+Authenticated the client (Yes/No)? yes
+
+Is the client a field user with an iPad? Yes
+if so, Contact BTAC for further assistance.
+
+Is Intune Company Portal installed on the device (Y/N)?  yes
+
+Walk the user through the reset passcode link https://portal.manage.microsoft.com
+
+Was the user able to reset their passcode (Yes/No)? Yes
+if No, authenticate the user and contact BTAC. 
+
+User called to report hi work phone he was trying to put his pin and got locked. 
+Authenticated the user. Contacted BTAC for further assistance.
+Asked user to check his iPhone to make sure it's unlocked and will prompt to create a new passcode.
+User said the device got unlocked and successfully set a new passcode. Ticket resolved. 
+
+***Please review the KBA steps for iPhone passcode reset/phone disabled***",89,1,1,1,1,1,0,0,1,1,1,0,1,0,1
+INC000005582737,IT Service Desk,Active Directory Services,Phone,"Active Directory - Password Reset Active Directory - Password Reset
+-------------------- Important Note: ----------------------------------------------------------------------------------------
+
+- Use this template if the user requesting assistance to reset AD password.
+
+-------------------- Action Required: ---------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00067502
+- Verify the user is connected to SCE via VPN, Ethernet cable, or company WiFi. Otherwise, the password will not sync.
+- Confirm password is synced afterwards by locking and unlocking the laptop with new password.
+
+-------------------- Questionnaire Section: ------------------------------------------------------------------------------
+ 
+User ID:   GILEROR
+
+Device ID: D281646
+
+Domain (SCE/LAW/SONGS): sce
+
+Authenticated the client (Yes/No)? yes
+ 
+Did the client receive the 'Windows Password Expiration' pop-up from Aternity? no 
+- If so, use the 'Aternity - Windows password expiration pop-up' template.
+
+How did you assist the client? authenticated the user. performed a password reset from ad. User could set a new password and log into his device. ticket resolved 
+
+-------------------- Routing Instructions ---------------------------------------------------------------------------------
+
+Document and resolve your ticket.
+
+- If user is an Executive, route to Executive Support and follow VIP process KBA00007032",53,1,1,0,1,1,0,0,1,1,1,0,1,0,1
+INC000005587560,Desktop Support,Windows,Phone,"Windows - Slow Performance Windows - Slow Performance
+KBA00082532
+
+Escalation group: Desktop Support
+
+Describe issue:
+The user called because he has a slow performance on his device
+Windows version: 
+
+When did the issue start: Today
+
+How much available free disk space does the client have? 201 GB
+
+What troubleshooting did you perform? 
+Remote to the device
+Change to best performance mode
+Deleted temporally files
+7 am to 3 pm PST
+Phone 8183124719
+Ticket escalated",59,1,1,1,0,1,0,0,1,1,1,0,0,0,1
+INC000005588150,Desktop Engineering,Windows,Phone,"Windows - Software install/reinstall Michael W So Windows - Software install/reinstall
+KBA00082602
+
+***If there is a template for the software you need to install, please use that template instead***
+
+Escalation group: None
+
+Describe issue: 
+User reported that was getting some icons on his desktop,  user got a force update from Software Center on his device and he not recognized the app Itron (MVLTxi 2.0.19.5).
+User mentioned that on his role he didn't require that app and there is not any request for this app.
+At checking with KM and Leads, issue need to be handle for  Desktop Engineering.
+User reported that there is no more coworkers with this application on their devices.
+Ticket escalated
+
+Windows version: w11
+ 
+What software is the client requesting to install? None,
+
+Does the client have the software installer they are requesting to install? No
+- If yes, use the Template Digital Workplace - Application Packaging Request.
+- If not: 
+- First ensure that the user does not have any existing requests for the same software: If a request for this software already exists, do not attempt to install it.
+
+- If the user does not have any pending requests for the software. 
+
+Were you able to install it from Sims? No
+- If not, use the Digital Workplace - How to request software template to request it.
+
+
+Resolve incident 
+
+
+MICHAEL SO
+SOMW
+D402052
+Phone: 6267433929 / Email
+Monday to Friday
+8 AM - 5 PM PST",96,1,1,1,1,1,1,0,1,1,1,0,1,0,1
+INC000005590267,Desktop Support,Windows,Phone,"Windows - Slow Performance THEODORE ESCALANTE Windows - Slow Performance
+KBA00082532
+
+Escalation group: Desktop Support
+
+Describe issue: User reported his pc is super slow 
+
+Windows version:  win11
+
+When did the issue start: today 
+
+How much available free disk space does the client have? 276gb free of 475gb
+
+
+What troubleshooting did you perform? I remote in, he restarted pc, ran dell command updates, no pending on software center,  Disable apps relaunch on startup. Stop a program from starting automatically and same, please assist  7 to 3:30 pm pst / 5599780952 or teams chat",97,1,1,1,1,1,0,1,0,1,1,0,1,1,1
+INC000005584976,Desktop Support,Windows,Phone,"MCAS Policy - Unable to download file from browser (Windows devices only) MCAS Policy - Unable to download file from browser (Windows devices only)
+KBA00064901
+
+Escalation Group: IT Collaboration-Infra Sysadmin
+
+
+Describe issue:
+user is unable to download documents from Edge  and Chrome browsers
+user is SCE employee since yesterday, he gets a new Edison computer
+
+Error message: Download blocked
+
+Attach Screenshot
+
+Is the client a contractor or an employee? employee
+        For employees, ensure they're connected to VPN
+        For contractors, validate VPN access
+
+Is the client connected to VPN? yes
+         If not, please connect client to VPN
+
+Is the client using a Windows device, Mac/iPad? Windows  
+         For Windows, ensure the client is using the correct proxy configuration
+         If the client is using a Mac/iPad, please refer to this KBA: KBA00067110 
+
+Which browser is the client using? Edge 
+        Recommended browsers are Edge/Chrome
+
+From which site/application is the file being downloaded? From Edison portal   Rims / SharePoint site
+
+https://edisonintl.sharepoint.com.mcas.ms/teams/LIMS%20O365/RIMSBI/Dashboards/RIMS360.aspx?RimsID=21762&RootFolder=/teams/LIMS%20O365/RIMSBI/RIMS%20Documents%201/21762
+
+
+
+Resolution steps:
+***Inform client that due to new policy being implemented the download of attachments/file outside the SCE Network is no longer available (due to a high security risk). Suggest using tools like Outlook, OneDrive or Teams, etc. to access these documents or to connect to SCE Network via VPN and be able to download via browser.***
+
+For External Clients (contractors):
+
+1. Validate the following:
+
+       *Client is using a non-SCE Device.
+
+       *Client has a valid SCE email and is being used to authenticate.
+
+      *Client is “Member Of” a VPN Group in AD.  VPN and RSA connection must be enabled.
+
+                - If VPN Access is needed refer to KBA00042203.
+
+2. Make sure to clear browser cache. Edge/Chrome are the recommended browsers to be used.
+
+If the user continues having issues or getting the pop up even when VPN connection is established, then make sure to clear browser cache, close the browser and try again while connected to the VPN.",58,1,0,1,1,1,1,0,1,1,1,0,0,1,1
+INC000005590368,Desktop Support,Office 365,Phone,"Microsoft Office - Excel is not responding KBA00013503
+
+Escalation: Desktop Support
+
+Describe issue: MS Excel is not responding.
+
+Office version: 16.0.28827.20164
+
+Operating System: w11
+
+Application (see available apps in KBA): MS Excel
+
+When did the issue start? Today
+
+What troubleshooting did you perform?
+
+I repaired MS Office from the control panel
+User restarted her device. Issue persists
+
+Attach screenshot",64,0,1,1,1,1,1,0,1,1,1,0,1,1,0
+INC000005590205,Desktop Support,Windows,Phone,"Windows - KMZ Files Issues KBA00029727
+
+***This template can only be used if the issue is related to the Operating System itself, do NOT use this template for issues with other apps/services***
+
+Escalation group: Contact BTAC - Business Technology Assistance Center
+
+Describe issue:User called in to report is unable to open KMZ files on outlook attachments and has never been able to open them in the past. 
+
+Error message: file could not be opened
+
+Windows version: 11
+
+Is the Operating System starting up?yes
+
+What troubleshooting did you perform?REmoted into user's computer and attempted to to select adobe to open the .kmz files. unale to open. Had user to sig into adobe and tried again 
+Went to apps >select apps by file in the system settings 
+and attempted to select adobe, google maps to open those 
+files. 
+User mentioned has never been able to open any kmz file in the past. he states those files contain maps
+Tried to open with several programs in the systems as paint, windows manager and acrobat ending in the same error: 
+
+file could not be opened. 
+
+Routing to l2 for further assistance 
+Method: phone
+Phone:8052175320
+Hours:7 am to 330 pm 
+
+
+Attach screenshot",34,1,0,0,1,1,0,0,1,1,0,0,1,1,1
+INC000005587367,Desktop Support,Office 365,Phone,"Microsoft Office - Unable to launch microsoft word Richard A RethornII Microsoft Office - Describe issue
+KBA00013503
+
+Escalation: Desktop Support
+
+Describe issue:  Unable to launch microsoft word
+
+Office version: 16.0.14931.20944
+
+
+Operating System:W11
+
+Application (see available apps in KBA):
+Word
+
+When did the issue start?
+Today
+
+What troubleshooting did you perform?
+Office Repair
+
+Attach screenshot",41,1,1,0,1,1,0,0,1,1,1,0,1,1,0
+INC000005590741,Tech Bar,Windows,Phone,"Windows - Slow Performance Daniel Sias Windows - Slow Performance
+KBA00082532
+
+Escalation group: Desktop Support
+
+Describe issue: user reported his device was very slow task were taking him 3-5min 
+
+Windows version: win11
+
+When did the issue start: this week
+
+How much available free disk space does the client have? 40.4GB
+
+What troubleshooting did you perform? I remoted in via teams because i could not through the remote control even with the ip address and many attempts , verified winver, he had restarted 6 times already, tried to verify dell command for updates but the app never launched even with admin rights, there were no installation problems on software center, we disabled some apps from running in the back but same thing so routing to l2 for further assistance. 
+
+User would prefer to be contacted by phone 6264644472 from 8 to 5pm pst monday to friday",79,1,1,1,1,1,0,0,1,1,1,0,1,1,1
+INC000005583880,IT Service Desk,Windows,Phone,"M365 Copilot - Describe issue KBA00087409
+
+Escalation Group: None
+
+Describe issue: The user wants to use the app on Word
+
+What is the Microsoft Copilot product? word 
+
+Any questions or user requesting M365 Copilot license user can send an email to Copilot@sce.com. 
+
+
+What troubleshot did you perform?
+I checked that the user has the license 
+Advised the user to please contact Copilot@sce.com. 
+ticket closed as informational 
+
+
+***Resolve your ticket***",29,1,0,1,0,0,0,0,1,1,0,0,1,0,1
+INC000005588860,BTAC - Business Technology Assistance Center,Active Directory Services,Phone,"Active Directory - Password Reset Alex Levesque Active Directory - Password Reset
+-------------------- Important Note: ----------------------------------------------------------------------------------------
+
+- Use this template if the user requesting assistance to reset AD password.
+
+-------------------- Action Required: ---------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00067502
+- Verify the user is connected to SCE via VPN, Ethernet cable, or company WiFi. Otherwise, the password will not sync.
+- Confirm password is synced afterwards by locking and unlocking the laptop with new password.
+
+-------------------- Questionnaire Section: ------------------------------------------------------------------------------
+
+User ID: LEVESQA
+
+Device ID: D294194
+
+Domain (SCE/LAW/SONGS): sce
+
+Authenticated the client (Yes/No)? yes
+
+Did the client receive the 'Windows Password Expiration' pop-up from Aternity? no
+- If so, use the 'Aternity - Windows password expiration pop-up' template.
+
+How did you assist the client? After script
+User didnt remember his password
+I authenticated him with name, user id, PERNR and 4 ssn, because the device was not showing under his name
+
+Made the password reset and provided him the temporary one, so that way he could changed it later
+
+User was able to log in
+
+Ticket resolved
+
+-------------------- Routing Instructions ---------------------------------------------------------------------------------
+
+Document and resolve your ticket.
+
+- If user is an Executive, route to Executive Support and follow VIP process KBA00007032",35,1,1,0,1,1,0,0,1,1,0,0,1,0,1
+INC000005583528,IT Service Desk,Latitude 7490,Phone,"SCE Device - First time login outside of California Sanjayakumar Meher SCE Device - First time login outside of California
+-------------------- Important Note: -----------------------------------------------------------------------------------------
+
+- This template only applies for SCE devices that are unable to unlock in the first time login, ONLY if the user is not in the State of California. If the user is able to go to an SCE location please proceed with the ""Active Directory - (Windows) Password Sync issues"" template.
+
+-------------------- Action Required: ----------------------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00119942
+- Do Not reset the user's password in Active Directory. 
+- If the default password is not working, advise the user to reach out to their manager for assistance.
+- The user's manager should submit a report an issue request through Digital Workplace, selecting IMACD as the resolver group.
+ 
+-------------------- Questionnaire Section: -------------------------------------------------------------------------------
+
+Describe issue:
+user reported he just got a new laptop but the first logging password is now working.
+Since user is outside of the state of California, asked him to reach his manager and submit a report an issue to the IMACD group.
+User agreed and algo asked for his manager email.
+Provided to him with it.
+
+Error message the client is getting upon sign-in: unable to sign in
+
+State of the country where the client is located: Texas
+
+What did you advise the client?
+user reported he just got a new laptop but the first logging password is now working.
+Since user is outside of the state of California, asked him to reach his manager and submit a report an issue to the IMACD group.
+User agreed and algo asked for his manager email.
+Provided to him with it.
+
+Resolve the incident.
+ 
+-------------------- Routing Instructions ---------------------------------------------------------------------------------
+
+Escalation group: None",28,1,1,0,1,1,1,0,0,0,1,0,0,0,1
+INC000005588322,IT Service Desk,OKTA,Phone,"Okta - MFA Reset Francis J Micallef Okta - MFA Reset
+KBA00072934
+
+***OKTA SMS text messages will no longer be available for MFA. If users receive an email informing them that this method will be removed, please guide them on how to set up OKTA Verify. Specify that this change is part of the Cybersecurity Admin Standard Policy. If users ask for an SCE cell phone, guide them on how to request one in the Digital Workplace and refer them to their manager.***
+
+Escalation group: IAM - Access Enforcement Technology Support
+
+Describe issue: reset mfa
+
+Did you authenticate the client (Yes/No)? yes
+
+When did the issue start? today
+
+What troubleshooting did you perform? reset mfa 
+
+
+Attach screenshot
+*Please review KBA for troubleshooting steps prior to escalating to L2*",65,1,1,1,1,0,0,0,1,1,1,0,1,0,1
+INC000005582925,IT Service Desk,iPhone,Chat,"Mobile Devices iPhone/iPad - Passcode reset KBA00091943
+
+Escalation: Contact BTAC - Business Technology Assistance Center for assistance.
+d274356
+909 5490534
+Availability: not provided
+Best contact:  not provided
+Phone number of the device experiencing the issue: 
+Authenticated the client (Yes/No)?
+n/a
+Is the client a field user with an iPad?
+if so, Contact BTAC for further assistance.
+
+Is Intune Company Portal installed on the device (Y/N)? 
+n/a
+Walk the user through the reset passcode link https://portal.manage.microsoft.com
+yes
+Was the user able to reset their passcode (Yes/No)?
+if No, authenticate the user and contact BTAC. 
+YEs user was able to reset their passcode
+
+
+***Please review the KBA steps for iPhone passcode reset/phone disabled***",61,1,1,1,1,0,0,0,1,0,0,0,1,0,1
+INC000005588901,IT Service Desk,Internet Information Services,Phone,"Informational call/chat - Describe issue Cynthia Moran Informational call/chat - Describe issue
+KBA00078320
+
+Escalation group: None
+
+What is the client's department?
+unknown
+What was the client's question/concern?
+USer reports being unable to connect to the internet and that she needs a loaner laptop
+What did you advise the client?
+advised the user to request a loaner laptop through their manager
+
+**Only use this template if the client called for a generic question/concern that has no Remedy template available**
+
+Resolve incident",26,1,0,0,1,1,0,0,0,0,1,0,0,0,0
+INC000005586722,IT Service Desk,SAP GUI,Chat,"SAP - Account unlock KBA00076810
+
+Escalation group: SAP Security
+
+Describe issue: Account locked 
+
+Did you authenticate the client (Yes/No)? Yes 
+
+What system is the client trying to access (P02, Q52, A03, D39)? P02 
+- If the system is T02 or T03, contact BTAC or your Lead for assistance.
+
+What ""client"" from that system is the user trying to access (100, 200, 300, 400)? 100 
+
+When did the issue start? Today 
+
+What troubleshooting did you perform? Unlocked",67,1,0,1,1,0,0,0,0,0,1,0,1,0,1
+INC000005585126,IT Service Desk,Internet Information Services,Phone,"Informational call/chat - Longer lock screen time KBA00078320
+
+Escalation group: None
+
+What is the client's department? NP
+
+What was the client's question/concern? The user needed to have a longer period of time before his computer gets locked
+
+What did you advise the client? I commented that we cannot change that due to security issues
+
+
+**Only use this template if the client called for a generic question/concern that has no Remedy template available**
+
+Resolve incident",42,1,1,1,0,1,0,0,1,1,1,0,1,0,1
+INC000005588082,IT Service Desk,Windows,Phone,"Windows - Time/date out of sync Caller: James D Whooley
+User ID: whoolejd
+Device ID: D406157
+Location: Remote
+Phone: 2133593416
+Describe issue: User called in reporting the date and time is wrong
+Error message: No error message
+Last time it worked: today
+How many users affected: N/A 
+
+KBA00083707
+
+Escalation group: None
+
+Describe issue: User called in reporting the date and time is wrong
+
+Operating system: Windows 10
+
+Device ID: D406157
+
+When did the issue start? today
+
+What troubleshooting did you perform?
+
+- Ask user if he is connected to the VPN
+- User mentions it is not allowing him to connect to the VPN due to the date and time
+- Guide user to open CMD as admin
+- User unable to run commands gpupdate /force and  w32tm /resync due to network failed
+- Guide user to open timedate.cpl 
+- User not able to update date and time due to admin rights
+- Ask user to reboot the computer
+- Ask user to connect to the VPN
+- Review account and account is disable
+- Closing this ticket and create a new ticket for account disable 
+
+
+
+
+
+
+
+Resolve incident",80,1,1,1,1,1,1,0,1,1,1,0,0,0,1
+INC000005569545,Desktop Support,Windows,Phone,"NetMotion - Access denied KBA00077643
+
+Escalation group: Desktop Support
+
+Error Message: access denied
+When was the last time it worked? a month ago
+Please provide the GRC# that is granting access for VPN: 586618
+If no GRC is found, please raise an AO How Ticket for access. John A Lozano
+
+
+user has not connected for a while, He forgot the passcode
+we reset the passcode but user still gets access denied
+user will be available tomorrow all day
+phone 
+5624196224
+d252356",73,1,1,1,0,1,1,0,1,0,0,0,1,0,1
+INC000005560621,Desktop Support,RSA Secure ID Hardware Token - SCE,Phone,"RSA - How to request a Hard Token (first time users) KBA00062103
+
+Escalation group: Depending on the issue
+
+Describe issue: The supervisor of Tyler made contact, and he mentions that Tyler will need a hard token to login, he will be a first-time user. 
+
+Is the client an SCE employee or contractor? SCE Employee
+
+Is the client a field user? Yes
+
+Does the client have the VPN SCE GENERAL role in Active Directory? Yes, attaching screen
+(SSO, EXT, or other roles do not qualify)
+- If so, document your findings and route the incident to Desktop Support.
+- If not, follow the resolution steps below.
+
+
+Resolution steps:
+
+1. Advise the client to go to IGAM, submit a request for the role VPN SCE General, and specify in the business justification that a hard token is required.
+
+Tyler already has the VPN SCE GENERAL role added in Active Directory (attaching screenshot).
+Routing to L2
+Please assist the user
+Contact: 3108485802
+Availability:  7AM-330PM PST Mon-Fri.",34,1,1,1,1,1,1,0,0,0,0,0,1,1,0
+INC000005575543,Identity and Access Management- Operations Support,SailPoint,Phone,"**REFER TO SUBMITTED REQUEST** IGAM - Fileshare Access KBA00058402
+
+
+Escalation Group: Identity and Access Management- Operations Support
+
+File Path: \\Sce\workgroup\CSBU2\BPO-CSBU\Business Automation Input Folders\Bill Line Item Upload\Robotics Reports
+Requesting access for:
+Alim Wade
+Leanne Canas
+Seth Boothe
+Gwendolyn Smith
+Sandra Bonilla
+Maria (Luisa) Ramirez
+
+
+Fix:
+Submit File Share request in IGAM. 
+
+If File Share cannot be found in IGAM, route to the corresponding team.
+
+-User called in and request assistance on how to submit a IGAM - Fileshare Access for a few users but the shared folder cannot be found in IGAM
+-I advised the user I will need to escalate this ticket to second level 
+
+*Contact the user"".
+-Best day(s) to contact the user: from: Monday to: Friday.
+-Best time to contact the user: from: 8:00 am 3:30 pm 
+-Best way(s) Phone contact 6269678253",81,1,1,1,0,1,1,0,1,1,0,0,1,0,1
+INC000005584581,IAM - Access Enforcement Technology Support,OKTA,Phone,"Okta - MFA Setup -------------------- Important note: -----------------------------------------------------------------------------
+
+- Use this template if the user requires to Setup OKTA Verify.
+
+-------------------- Action Required: ----------------------------------------------------------------------------
+
+- Verify the KBA for more information: KBA00131644
+- OKTA SMS text messages will no longer be available for MFA. If users receive an email informing them that this method will be removed, please guide them on how to set up OKTA Verify. Specify that this change is part of the Cybersecurity Admin Standard Policy. If users ask for an SCE cell phone, guide them on how to request one in the Digital Workplace and refer them to their manager.
+- Please review KBA for troubleshooting steps prior to escalating to L2.
+
+-------------------- Questionnaire Section: ----------------------------------------------------------------------
+
+Device ID:  not provided by the user
+
+Describe issue: User is unable to make OKTA Verify setup
+
+What troubleshooting did you perform?
+ Reset user's password
+Authenticated user
+Advise the user to try once again
+User only have mail and phone option to verify
+
+Routing to IAM to assist user
+
+Hours available: 9am - 6PM IST
+ 
+How would you like to be contacted:  Phone
+
+-------------------- Routing Instructions: ------------------------------------------------------------------------
+
+Escalation group: IAM - Access Enforcement Technology Support",86,1,1,1,1,1,1,0,1,0,0,0,1,1,1
+INC000005559768,Desktop Support,Windows,Phone,"Windows - How to map a drive KBA00083609
+
+Escalation group: Depending on the issue
+
+Describe issue:  unable to map a drive
+
+Path that the client would like to map:  \\sce.eix.com\home\users6\villaj6
+
+How did you assist the client? escalating for assistance
+
+contact during night
+6268155611
+
+
+Attach screenshot",94,1,1,1,1,0,1,0,1,1,0,0,1,1,1
+INC000005572096,Desktop Support,Citrix Receiver for Google Chrome,Chat,Need to raise service request for increasing RAM. Purpose: for working on power BI desktop nan,37,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+INC000005563955,IMACD,Palo Alto Global Protect,Phone,"GlobalProtect - Connect button not working Roberto Alcala GlobalProtect - Connect button not working
+KBA00069306
+
+Escalation Group: Desktop Support
+
+Describe issue: connection the virtual adaptor could not start error message
+
+When did the issue start? today
+
+When was the last time it worked? friday
+
+What VPN role does the user have in AD (Member Of)? vpn sce general sso
+
+What troubleshooting did you perform? check for internet access user has access to internet
+1. Open Global Protect settings.
+2. Select the VPN portal and click delete.
+3. Once the portal has been deleted, click the ""Add"" button.
+4. Enter the portal the client uses to connect to VPN and click ""Save"".
+best contact method phone 5593313841
+best contact time 6am to 3 30pm monday to friday
+please contact asap
+
+
+Troubleshooting steps:
+
+1. Open Global Protect settings.
+2. Select the VPN portal and click delete.
+3. Once the portal has been deleted, click the ""Add"" button.
+4. Enter the portal the client uses to connect to VPN and click ""Save"".
+5. Client should be able to connect to VPN, if the issue persists, document your findings and route the incident to L2.",87,1,1,1,1,1,1,0,1,0,0,0,1,1,1
